@@ -8,4 +8,4 @@
 * 1：dd
   ![dd](https://github.com/Donglike128/2023zjude-5418/blob/main/file01/1.jpg?raw=true)
 * 2：yy
-  ![yy]()
+  ![yy](https://github.com/Donglike128/2023zjude-5418/blob/main/file01/2.jpg?raw=true)
