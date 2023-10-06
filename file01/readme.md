@@ -6,6 +6,6 @@
 
 # 耶耶可爱排行榜
 * 1：dd
-  ![dd]()
+  ![dd](https://github.com/Donglike128/2023zjude-5418/blob/main/file01/1.jpg?raw=true)
 * 2：yy
   ![yy]()
